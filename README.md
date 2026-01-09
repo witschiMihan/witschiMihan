@@ -84,8 +84,8 @@ We focus on **optimizing operations**, **predictive analytics**, and **energy ef
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-17-orange)  
-![Python](https://img.shields.io/badge/Python-3.11-blue)  
+![Java](https://img.shields.io/badge/Java-25-orange)  
+![Python](https://img.shields.io/badge/Python-3.13-blue)  
 ![ML](https://img.shields.io/badge/ML-TensorFlow-green)  
 ![GUI](https://img.shields.io/badge/GUI-Swing-lightgrey)  
 ![Blockchain](https://img.shields.io/badge/Blockchain-Python-red)  
@@ -108,4 +108,4 @@ We focus on **optimizing operations**, **predictive analytics**, and **energy ef
 
 ---
 
-> AEOS © 2025 — Subsidiary of RigVisionX Technology
+> RigVisionX  © 2025 — RigVisionX Technology
