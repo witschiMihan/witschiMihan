@@ -105,6 +105,7 @@ We focus on **optimizing operations**, **predictive analytics**, and **energy ef
 - 📧 Email: CTO mihanwitschi@gmail.com 
 - 🐦 Twitter: [@RigVisionX](https://twitter.com/RigVisionX)  
 - 💼 LinkedIn: CTO https://www.linkedin.com/in/witschi-mihan-14a347312
+- 💼 LinkedIn: RigVisionX Technology www.linkedin.com/in/rigvisionx-technology-7085943a4
 
 ---
 
