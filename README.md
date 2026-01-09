@@ -101,10 +101,10 @@ We focus on **optimizing operations**, **predictive analytics**, and **energy ef
 ---
 
 ## 🔗 Connect with Us
-- 🌐 Website: [www.rigvisionx.tech](https://www.rigvisionx.tech)  
-- 📧 Email: contact@rigvisionx.tech  
+- 🌐 Website: [www.rigvisionx.tech]([https://www.rigvisionx.tech](https://witschi-mihan.super.site/))  
+- 📧 Email: CTO [mihanwitschi@gmail.com] 
 - 🐦 Twitter: [@RigVisionX](https://twitter.com/RigVisionX)  
-- 💼 LinkedIn: [RigVisionX Technology](https://www.linkedin.com/company/rigvisionx-technology)
+- 💼 LinkedIn: [RigVisionX Technology][CTO][(https://www.linkedin.com/in/witschi-mihan-14a347312/)]
 
 ---
 
