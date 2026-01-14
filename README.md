@@ -26,7 +26,7 @@ We focus on **optimizing operations**, **predictive analytics**, and **energy ef
   - ML predictions for efficiency optimization  
   - GUI-based control panel for operators  
 
-[View Repository](https://github.com/RigVisionX-Tech/AEOS)
+[View Repository](https://github.com/witschiMihan/AEOS---Adaptive-Energy-Optimization-System)
 
 ---
 
