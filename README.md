@@ -30,7 +30,7 @@ We focus on **optimizing operations**, **predictive analytics**, and **energy ef
 
 ---
 
-### 2. Oil & Gas Drilling Optimization
+### 2. RigVisionX ML
 ![Drilling ML](assets/drilling_ml.gif)
 - **Tech:** Python, Pandas, Scikit-learn, Matplotlib  
 - **Description:** Machine learning-powered hydraulic optimization for drilling operations.  
@@ -39,7 +39,7 @@ We focus on **optimizing operations**, **predictive analytics**, and **energy ef
   - Simulation-based efficiency models  
   - Visualization of drilling fluid performance  
 
-[View Repository](https://github.com/RigVisionX-Tech/Drilling-Optimization)
+[View Repository](https://github.com/witschiMihan/RigVisionX_ML)
 
 ---
 
